@@ -1,6 +1,7 @@
-public class sample
+public class Sample
 {
 	public static void main(String args[])
 	{
-		system.out.println("mallarapu harshavani");
+		System.out.println("harshavani");
 	}
+}
